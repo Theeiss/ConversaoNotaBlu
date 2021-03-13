@@ -1,6 +1,6 @@
 # ConversaoNotaBlu
 
-Um aplicativo simple feito sob demanda para um escritório de contabilidade para converter um arquivo exportado pela prefeitura de Blumenau para um formato específico esperado por um software ERP.
+Um aplicativo simples feito sob demanda para um escritório de contabilidade para converter um arquivo exportado pela prefeitura de Blumenau para um formato específico esperado por um software ERP.
 
 ===========================
 
